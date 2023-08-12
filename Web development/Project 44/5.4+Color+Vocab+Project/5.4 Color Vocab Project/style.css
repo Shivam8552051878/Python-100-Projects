@@ -1,0 +1,28 @@
+img {
+    width: 200px;
+    height: 200px;
+}
+
+.color-title {
+    font-weight: normal;
+  }
+  
+#red {
+    color: red;
+}
+
+#yellow {
+    color: yellow;
+}
+
+#green {
+    color: green;
+}
+
+#orange {
+    color: orange;
+}
+
+#blue {
+    color: blue;
+}
