@@ -1,0 +1,25 @@
+Metadata-Version: 2.0
+Name: pyqart
+Version: 0.1.0
+Summary: QArt Python implementation, see http://research.swtch.com/qart for details.
+Home-page: https://github.com/7sDream/pyqart
+Author: 7sDream
+Author-email: 7seconddream@gmail.com
+License: MIT
+Keywords: qrcode,qart
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Topic :: Multimedia :: Graphics
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires-Dist: pillow
+
+UNKNOWN
+
+

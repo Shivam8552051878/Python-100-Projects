@@ -1,0 +1,4 @@
+[console_scripts]
+pyqart = pyqart.qart_entry:main
+pyqr = pyqart.qr_entry:main
+

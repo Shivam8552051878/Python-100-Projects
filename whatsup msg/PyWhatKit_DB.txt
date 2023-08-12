@@ -1,0 +1,75 @@
+Date: 22/7/2023
+Time: 15:37
+Phone Number: +910123456789
+Message: Hi
+--------------------
+Date: 22/7/2023
+Time: 15:43
+Phone Number: +918552051878
+Message: Hi
+--------------------
+Date: 10/8/2023
+Time: 11:30
+Phone Number: +919594503233
+Message: Hi
+--------------------
+Date: 10/8/2023
+Time: 11:33
+Phone Number: +919594503233
+Message: Hi
+--------------------
+Date: 10/8/2023
+Time: 11:35
+Phone Number: +919594503233
+Message: Hi
+--------------------
+Date: 10/8/2023
+Time: 11:52
+Phone Number: +918552051878
+Message: Hello, this is an HTML message!This is a bold and italic message.
+--------------------
+Date: 10/8/2023
+Time: 11:54
+Phone Number: +918552051878
+Message: Hello, this is an HTML message!This is a bold and italic message.
+--------------------
+Date: 10/8/2023
+Time: 11:59
+Phone Number: +918552051878
+Message: Important Update:https://example.com/image.jpgThank you for your attention! 🙌
+--------------------
+Date: 10/8/2023
+Time: 12:5
+Phone Number: +918552051878
+Message: Important Update:https://example.com/image.jpgThank you for your attention! 🙌
+--------------------
+Date: 10/8/2023
+Time: 12:26
+Phone Number: +918552051878
+Message: Important Update: to Shivamhttps://example.com/image.jpgThank you for your attention! 🙌
+--------------------
+Date: 10/8/2023
+Time: 12:29
+Phone Number: +918552051878
+Message: Important Update: to Shivamhttps://example.com/image.jpgThank you for your attention! 🙌
+--------------------
+Date: 10/8/2023
+Time: 12:30
+Phone Number: +919158336173
+Message: Important Update: to Amolhttps://example.com/image.jpgThank you for your attention! 🙌
+--------------------
+Date: 10/8/2023
+Time: 12:32
+Phone Number: +919819389701
+Message: Important Update: to Nikeshhttps://example.com/image.jpgThank you for your attention! 🙌
+--------------------
+Date: 10/8/2023
+Time: 12:38
+Phone Number: +918552051878
+Message: Important Update: to ShivamImages/invitation.jpegThank you for your attention! 🙌
+--------------------
+Date: 10/8/2023
+Time: 12:53
+Phone Number: +918552051878
+Message: Check out this image!
+--------------------
