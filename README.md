@@ -13,7 +13,7 @@ I have completed 41 projects out of the planned 100. You can browse through the 
 - **To-Do List App**: A command-line app that allows users to manage tasks with functionality like adding, deleting, and viewing tasks.
 - **Web Scraper**: A Python script that scrapes data from a website and stores it in a CSV file using libraries like `requests` and `BeautifulSoup`.
 
-For a full list of completed projects, you can [browse the repository folders](https://github.com/your-username/python-100-project).
+For a full list of completed projects, you can [browse the repository folders](https://github.com/shivam8552051878/Python-100-Projects).
 
 ## 🛠️ Technologies Used
 
